@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\10 8 2022\10 8 2022\bin\Debug\10 8 2022.exe.config
+C:\Users\HP\source\repos\10 8 2022\10 8 2022\bin\Debug\10 8 2022.exe
+C:\Users\HP\source\repos\10 8 2022\10 8 2022\bin\Debug\10 8 2022.pdb
+C:\Users\HP\source\repos\10 8 2022\10 8 2022\obj\Debug\10 8 2022.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\10 8 2022\10 8 2022\obj\Debug\10 8 2022.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\10 8 2022\10 8 2022\obj\Debug\10 8 2022.exe
+C:\Users\HP\source\repos\10 8 2022\10 8 2022\obj\Debug\10 8 2022.pdb

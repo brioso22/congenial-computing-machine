@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\semana_3_2\semana_3_2\bin\Debug\semana_3_2.exe.config
+C:\Users\HP\source\repos\semana_3_2\semana_3_2\bin\Debug\semana_3_2.exe
+C:\Users\HP\source\repos\semana_3_2\semana_3_2\bin\Debug\semana_3_2.pdb
+C:\Users\HP\source\repos\semana_3_2\semana_3_2\obj\Debug\semana_3_2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\semana_3_2\semana_3_2\obj\Debug\semana_3_2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\semana_3_2\semana_3_2\obj\Debug\semana_3_2.exe
+C:\Users\HP\source\repos\semana_3_2\semana_3_2\obj\Debug\semana_3_2.pdb

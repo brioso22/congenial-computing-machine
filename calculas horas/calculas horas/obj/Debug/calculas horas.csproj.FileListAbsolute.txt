@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\calculas horas\calculas horas\bin\Debug\calculas horas.exe.config
+C:\Users\HP\source\repos\calculas horas\calculas horas\bin\Debug\calculas horas.exe
+C:\Users\HP\source\repos\calculas horas\calculas horas\bin\Debug\calculas horas.pdb
+C:\Users\HP\source\repos\calculas horas\calculas horas\obj\Debug\calculas horas.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\calculas horas\calculas horas\obj\Debug\calculas horas.exe
+C:\Users\HP\source\repos\calculas horas\calculas horas\obj\Debug\calculas horas.pdb
+C:\Users\HP\source\repos\calculas horas\calculas horas\obj\Debug\calculas horas.csproj.AssemblyReference.cache
